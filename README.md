@@ -28,6 +28,7 @@ If you receive this error:
 
 `Could not find an executable ["phantomjs"] on your path.`
 
-Install it with: `brew install phantomjs`
+Install it with: `brew install phantomjs` on Mac.
+Install it with: `sudo apt-get install phantomjs` on Ubuntu.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/your-own-js-and-css-in-rails' title='Your Own Js And Css In Rails'>Your Own Js And Css In Rails</a> on Learn.co and start learning to code for free.</p>
